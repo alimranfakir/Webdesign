@@ -1,0 +1,7 @@
+<figure>
+ <img src="image.jpg"
+      width="50%" using percentage instead of pixel is best for design
+      altr="Football picture">
+            <figurecaption> A good day with my ualb football team </figurecaption>
+    
+    </figure>
